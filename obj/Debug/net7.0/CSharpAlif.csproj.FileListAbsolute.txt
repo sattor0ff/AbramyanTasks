@@ -1,0 +1,105 @@
+D:\CSharpAlif\bin\Debug\net7.0\CSharpAlif.exe
+D:\CSharpAlif\bin\Debug\net7.0\CSharpAlif.deps.json
+D:\CSharpAlif\bin\Debug\net7.0\CSharpAlif.runtimeconfig.json
+D:\CSharpAlif\bin\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\bin\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\obj\Debug\net7.0\CSharpAlif.csproj.AssemblyReference.cache
+D:\CSharpAlif\obj\Debug\net7.0\CSharpAlif.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAlif\obj\Debug\net7.0\CSharpAlif.AssemblyInfoInputs.cache
+D:\CSharpAlif\obj\Debug\net7.0\CSharpAlif.AssemblyInfo.cs
+D:\CSharpAlif\obj\Debug\net7.0\CSharpAlif.csproj.CoreCompileInputs.cache
+D:\CSharpAlif\obj\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\obj\Debug\net7.0\refint\CSharpAlif.dll
+D:\CSharpAlif\obj\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\obj\Debug\net7.0\CSharpAlif.genruntimeconfig.cache
+D:\CSharpAlif\obj\Debug\net7.0\ref\CSharpAlif.dll
+D:\CSharpAlif\Task2\bin\Debug\net7.0\CSharpAlif.exe
+D:\CSharpAlif\Task2\bin\Debug\net7.0\CSharpAlif.deps.json
+D:\CSharpAlif\Task2\bin\Debug\net7.0\CSharpAlif.runtimeconfig.json
+D:\CSharpAlif\Task2\bin\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\Task2\bin\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\Task2\obj\Debug\net7.0\CSharpAlif.csproj.AssemblyReference.cache
+D:\CSharpAlif\Task2\obj\Debug\net7.0\CSharpAlif.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAlif\Task2\obj\Debug\net7.0\CSharpAlif.AssemblyInfoInputs.cache
+D:\CSharpAlif\Task2\obj\Debug\net7.0\CSharpAlif.AssemblyInfo.cs
+D:\CSharpAlif\Task2\obj\Debug\net7.0\CSharpAlif.csproj.CoreCompileInputs.cache
+D:\CSharpAlif\Task2\obj\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\Task2\obj\Debug\net7.0\refint\CSharpAlif.dll
+D:\CSharpAlif\Task2\obj\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\Task2\obj\Debug\net7.0\CSharpAlif.genruntimeconfig.cache
+D:\CSharpAlif\Task2\obj\Debug\net7.0\ref\CSharpAlif.dll
+D:\CSharpAlif\Task3\bin\Debug\net7.0\CSharpAlif.exe
+D:\CSharpAlif\Task3\bin\Debug\net7.0\CSharpAlif.deps.json
+D:\CSharpAlif\Task3\bin\Debug\net7.0\CSharpAlif.runtimeconfig.json
+D:\CSharpAlif\Task3\bin\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\Task3\bin\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\Task3\obj\Debug\net7.0\CSharpAlif.csproj.AssemblyReference.cache
+D:\CSharpAlif\Task3\obj\Debug\net7.0\CSharpAlif.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAlif\Task3\obj\Debug\net7.0\CSharpAlif.AssemblyInfoInputs.cache
+D:\CSharpAlif\Task3\obj\Debug\net7.0\CSharpAlif.AssemblyInfo.cs
+D:\CSharpAlif\Task3\obj\Debug\net7.0\CSharpAlif.csproj.CoreCompileInputs.cache
+D:\CSharpAlif\Task3\obj\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\Task3\obj\Debug\net7.0\refint\CSharpAlif.dll
+D:\CSharpAlif\Task3\obj\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\Task3\obj\Debug\net7.0\CSharpAlif.genruntimeconfig.cache
+D:\CSharpAlif\Task3\obj\Debug\net7.0\ref\CSharpAlif.dll
+D:\CSharpAlif\Task4\bin\Debug\net7.0\CSharpAlif.exe
+D:\CSharpAlif\Task4\bin\Debug\net7.0\CSharpAlif.deps.json
+D:\CSharpAlif\Task4\bin\Debug\net7.0\CSharpAlif.runtimeconfig.json
+D:\CSharpAlif\Task4\bin\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\Task4\bin\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\Task4\obj\Debug\net7.0\CSharpAlif.csproj.AssemblyReference.cache
+D:\CSharpAlif\Task4\obj\Debug\net7.0\CSharpAlif.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAlif\Task4\obj\Debug\net7.0\CSharpAlif.AssemblyInfoInputs.cache
+D:\CSharpAlif\Task4\obj\Debug\net7.0\CSharpAlif.AssemblyInfo.cs
+D:\CSharpAlif\Task4\obj\Debug\net7.0\CSharpAlif.csproj.CoreCompileInputs.cache
+D:\CSharpAlif\Task4\obj\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\Task4\obj\Debug\net7.0\refint\CSharpAlif.dll
+D:\CSharpAlif\Task4\obj\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\Task4\obj\Debug\net7.0\CSharpAlif.genruntimeconfig.cache
+D:\CSharpAlif\Task4\obj\Debug\net7.0\ref\CSharpAlif.dll
+D:\CSharpAlif\Task5 (abramyan)\bin\Debug\net7.0\CSharpAlif.exe
+D:\CSharpAlif\Task5 (abramyan)\bin\Debug\net7.0\CSharpAlif.deps.json
+D:\CSharpAlif\Task5 (abramyan)\bin\Debug\net7.0\CSharpAlif.runtimeconfig.json
+D:\CSharpAlif\Task5 (abramyan)\bin\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\Task5 (abramyan)\bin\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\Task5 (abramyan)\obj\Debug\net7.0\CSharpAlif.csproj.AssemblyReference.cache
+D:\CSharpAlif\Task5 (abramyan)\obj\Debug\net7.0\CSharpAlif.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAlif\Task5 (abramyan)\obj\Debug\net7.0\CSharpAlif.AssemblyInfoInputs.cache
+D:\CSharpAlif\Task5 (abramyan)\obj\Debug\net7.0\CSharpAlif.AssemblyInfo.cs
+D:\CSharpAlif\Task5 (abramyan)\obj\Debug\net7.0\CSharpAlif.csproj.CoreCompileInputs.cache
+D:\CSharpAlif\Task5 (abramyan)\obj\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\Task5 (abramyan)\obj\Debug\net7.0\refint\CSharpAlif.dll
+D:\CSharpAlif\Task5 (abramyan)\obj\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\Task5 (abramyan)\obj\Debug\net7.0\CSharpAlif.genruntimeconfig.cache
+D:\CSharpAlif\Task5 (abramyan)\obj\Debug\net7.0\ref\CSharpAlif.dll
+D:\CSharpAlif\Task5(abramyan)\obj\Debug\net7.0\CSharpAlif.csproj.AssemblyReference.cache
+D:\CSharpAlif\Task5(abramyan)\obj\Debug\net7.0\CSharpAlif.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAlif\Task5(abramyan)\obj\Debug\net7.0\CSharpAlif.AssemblyInfoInputs.cache
+D:\CSharpAlif\Task5(abramyan)\obj\Debug\net7.0\CSharpAlif.AssemblyInfo.cs
+D:\CSharpAlif\Task5(abramyan)\obj\Debug\net7.0\CSharpAlif.csproj.CoreCompileInputs.cache
+D:\CSharpAlif\Task5(abramyan)\obj\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\Task5(abramyan)\obj\Debug\net7.0\refint\CSharpAlif.dll
+D:\CSharpAlif\Task5(abramyan)\obj\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\Task5(abramyan)\bin\Debug\net7.0\CSharpAlif.exe
+D:\CSharpAlif\Task5(abramyan)\bin\Debug\net7.0\CSharpAlif.deps.json
+D:\CSharpAlif\Task5(abramyan)\bin\Debug\net7.0\CSharpAlif.runtimeconfig.json
+D:\CSharpAlif\Task5(abramyan)\bin\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\Task5(abramyan)\bin\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\Task5(abramyan)\obj\Debug\net7.0\CSharpAlif.genruntimeconfig.cache
+D:\CSharpAlif\Task5(abramyan)\obj\Debug\net7.0\ref\CSharpAlif.dll
+D:\CSharpAlif\AbramyanTasks15.07\bin\Debug\net7.0\CSharpAlif.exe
+D:\CSharpAlif\AbramyanTasks15.07\bin\Debug\net7.0\CSharpAlif.deps.json
+D:\CSharpAlif\AbramyanTasks15.07\bin\Debug\net7.0\CSharpAlif.runtimeconfig.json
+D:\CSharpAlif\AbramyanTasks15.07\bin\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\AbramyanTasks15.07\bin\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\AbramyanTasks15.07\obj\Debug\net7.0\CSharpAlif.csproj.AssemblyReference.cache
+D:\CSharpAlif\AbramyanTasks15.07\obj\Debug\net7.0\CSharpAlif.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAlif\AbramyanTasks15.07\obj\Debug\net7.0\CSharpAlif.AssemblyInfoInputs.cache
+D:\CSharpAlif\AbramyanTasks15.07\obj\Debug\net7.0\CSharpAlif.AssemblyInfo.cs
+D:\CSharpAlif\AbramyanTasks15.07\obj\Debug\net7.0\CSharpAlif.csproj.CoreCompileInputs.cache
+D:\CSharpAlif\AbramyanTasks15.07\obj\Debug\net7.0\CSharpAlif.dll
+D:\CSharpAlif\AbramyanTasks15.07\obj\Debug\net7.0\refint\CSharpAlif.dll
+D:\CSharpAlif\AbramyanTasks15.07\obj\Debug\net7.0\CSharpAlif.pdb
+D:\CSharpAlif\AbramyanTasks15.07\obj\Debug\net7.0\CSharpAlif.genruntimeconfig.cache
+D:\CSharpAlif\AbramyanTasks15.07\obj\Debug\net7.0\ref\CSharpAlif.dll
